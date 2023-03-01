@@ -1,0 +1,2 @@
+git clone  https://github.com/browserstack/testng-browserstack.git
+cd testng-browserstack
